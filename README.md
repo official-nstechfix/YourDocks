@@ -1,7 +1,3 @@
-Here’s a sample README file for your "YourDocks" Rainmeter skin. It’s designed to provide a comprehensive description, installation steps, customization options, and acknowledgments. You can further customize the text as needed.
-
----
-
 # YourDocks - A Rainmeter Skin
 
 **YourDocks** is a highly customizable Rainmeter skin that adds a visually appealing and functional dock to your desktop. The icons feature a stylish linear gradient of different colors, and they expand with a dock-like hover effect, mimicking popular dock applications on macOS and Linux desktops. This skin is designed to give users easy access to their most-used applications, files, and folders while enhancing their desktop aesthetics.
@@ -33,7 +29,7 @@ To use YourDocks, you must have **Rainmeter** installed on your computer. Rainme
    - You can download the skin files from the [YourDocks GitHub repository](https://github.com/YourDocks).
    - Either clone the repository using Git:
      ```bash
-     git clone https://github.com/YourDocks/YourDocks.git
+     https://github.com/official-nstechfix/YourDocks.git
      ```
    - Or download the ZIP file and extract it manually.
 
