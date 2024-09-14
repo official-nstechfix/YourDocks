@@ -26,7 +26,7 @@ To use YourDocks, you must have **Rainmeter** installed on your computer. Rainme
    - If you don’t already have Rainmeter installed, download it from the official website: [Rainmeter.net](https://www.rainmeter.net/).
 
 2. **Clone or Download YourDocks:**
-   - You can download the skin files from the [YourDocks GitHub repository](https://github.com/YourDocks).
+   - You can download the skin files from the [YourDocks GitHub repository](https://github.com/official-nstechfix/YourDocks/releases/tag/YourDocks).
    - Either clone the repository using Git:
      ```bash
      https://github.com/official-nstechfix/YourDocks.git
