@@ -121,7 +121,7 @@ YourDocks is an open-source project, and contributions are welcome! Whether it's
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/official-nstechfix/YourDocks/blob/main/LISENCE.md) file for details.
 
 ---
 
